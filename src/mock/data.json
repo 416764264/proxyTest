@@ -1,0 +1,19 @@
+{
+  "list": [
+    {
+      "username": "wanglaowu",
+      "age": "321",
+      "id": 1
+    },
+    {
+      "username": "zhangsan",
+      "age": "456",
+      "id": 2
+    },
+    {
+      "username": "laohei",
+      "age": "678",
+      "id": 3
+    }
+  ]
+}

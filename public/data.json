@@ -1,0 +1,523 @@
+{
+  "status": 0,
+  "data": {
+    "films": [
+      {
+        "filmId": 4836,
+        "name": "紧急救援",
+        "poster": "https://pic.maizuo.com/usr/movie/c14a70858e2bda9c2bc8eaa7bfa0e2aa.jpg",
+        "actors": [
+          {
+            "name": "林超贤",
+            "role": "导演",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/45deca0f886633f1a8902f7eece4248a.jpg"
+          },
+          {
+            "name": "辛芷蕾",
+            "role": "方宇凌",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/ff8f5bfd455e660298452c0546bb23d5.jpg"
+          },
+          {
+            "name": "蓝盈莹",
+            "role": "演员",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/f27b94579d10d3131b476ec6c63a2722.jpg"
+          },
+          {
+            "name": "彭于晏",
+            "role": "高谦",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/0a30de65731f3ddc5ce5d5915c8d9d49.jpg"
+          },
+          {
+            "name": "王彦霖",
+            "role": "赵呈",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/728944e292dc6e8161acd7d5344d361c.jpg"
+          }
+        ],
+        "director": "林超贤",
+        "category": "剧情|灾难",
+        "synopsis": "《紧急救援》是由林超贤导演，彭于晏、王彦霖、辛芷蕾、蓝盈莹出演的中国首部海上救援打捞题材的作品。筹备过程中，导演林超贤带领团队实地勘察选址，力求打造更劲爆，更震撼的场景设置，本次与奥斯卡最佳摄影鲍德熹，《泰坦尼克号》美术指导Martin Laing等国际顶级制作团队的强强联合，预示着电影将成为首部打开国际市场的华语救援题材作品，也势必会成为又一部华语电影的标杆之作。",
+        "filmType": {
+          "name": "2D",
+          "value": 1
+        },
+        "nation": "中国大陆",
+        "language": "汉语普通话",
+        "videoId": "XNDIyODM2NjE4OA==",
+        "premiereAt": 1579910400,
+        "timeType": 3,
+        "runtime": 100,
+        "grade": "7.8",
+        "item": {
+          "name": "2D",
+          "type": 1
+        },
+        "isPresale": true,
+        "isSale": false
+      },
+      {
+        "filmId": 5287,
+        "name": "神奇女侠1984",
+        "poster": "https://pic.maizuo.com/usr/movie/4f84f5a48560f5b14b0fac7768da4e05.jpg",
+        "actors": [
+          {
+            "name": "派蒂·杰金斯",
+            "role": "导演",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/168e82b3c4ec676ca577cb99e5a9ee06.jpg"
+          },
+          {
+            "name": "盖尔·加朵",
+            "role": "戴安娜·普林斯 / 神奇女侠 Diana Prince / Wonder Woman",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/c4cfadaaab8f81ebaf3bdc7aa30fac49.jpg"
+          },
+          {
+            "name": "克里斯·派恩",
+            "role": "史蒂夫·特雷弗 Steve Trevor",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/6e0a82c6efac00bfb6b7c1b4bb46eaa9.jpg"
+          },
+          {
+            "name": "克里斯汀·韦格",
+            "role": "芭芭拉·密涅瓦 Cheetah",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/79a97235ee2f33741b63eafc2f34658e.jpg"
+          },
+          {
+            "name": "佩德罗·帕斯卡",
+            "role": "马克斯维尔·劳德 Max Lord",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/13c53574fc0c4b13b99e966af5af7e9d.jpg"
+          }
+        ],
+        "director": "派蒂·杰金斯",
+        "category": "动作|奇幻|冒险",
+        "synopsis": "神奇女侠的全新大银幕冒险来到了1980年代。神奇女侠戴安娜在华盛顿的自然历史博物馆过着与普通人无异的生活，然而在阻止了一场看似平常的劫案后，身边的一切都发生了变化。在强大的神力诱惑下，两位全新劲敌悄然出现——与神奇女侠“相爱相杀”的顶级掠食者豹女，以及掌控着能改变世界力量的麦克斯·洛德，一场惊天大战在所难免。另外一边，旧爱史蒂夫突然“死而复生”，与戴安娜再续前缘，然而浪漫感动之余，史蒂夫的回归也疑窦丛生。",
+        "filmType": {
+          "name": "3D",
+          "value": 2
+        },
+        "nation": "美国",
+        "language": "",
+        "videoId": "",
+        "premiereAt": 1608249600,
+        "timeType": 3,
+        "runtime": 151,
+        "item": {
+          "name": "3D",
+          "type": 2
+        },
+        "isPresale": true,
+        "isSale": false
+      },
+      {
+        "filmId": 5266,
+        "name": "沐浴之王",
+        "poster": "https://pic.maizuo.com/usr/movie/e6aabffd040bda24f483bcc95ed79e62.jpg",
+        "actors": [
+          {
+            "name": "易小星",
+            "role": "导演",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/c8722df42d08942db01c2a262f576950.jpg"
+          },
+          {
+            "name": "彭昱畅",
+            "role": "肖翔",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/9627d1ebac2b4b12a06fd1623a62af99.jpg"
+          },
+          {
+            "name": "乔杉",
+            "role": "周东海",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/4b6da2deabe5dc7883321bb17372c25b.jpg"
+          },
+          {
+            "name": "卜冠今",
+            "role": "周希希",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/7efe813dd79280f236b8d1286cdc313c.jpg"
+          },
+          {
+            "name": "苇青",
+            "role": "王素芬",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/f244a95cdcd64625a50069bd64db49c2.jpg"
+          }
+        ],
+        "director": "易小星",
+        "category": "喜剧|动作",
+        "synopsis": "在一次搓澡服务中，富二代肖翔（彭昱畅 饰）和搓澡工周东海（乔杉 饰）发生矛盾，让周东海面临生活困境。肖翔因跳伞事故被送到医院记忆全失，周东海恰巧撞见，心生一计，骗肖翔是自己的弟弟并骗回周家澡堂当搓澡工，于是一个富二代开始了一段终身难忘的搓澡生涯……",
+        "filmType": {
+          "name": "2D",
+          "value": 1
+        },
+        "nation": "中国大陆",
+        "language": "",
+        "videoId": "",
+        "premiereAt": 1607644800,
+        "timeType": 3,
+        "runtime": 102,
+        "grade": "8",
+        "item": {
+          "name": "2D",
+          "type": 1
+        },
+        "isPresale": true,
+        "isSale": false
+      },
+      {
+        "filmId": 5257,
+        "name": "拆弹专家2",
+        "poster": "https://pic.maizuo.com/usr/movie/4a2bec5290b94f7eb597913727b21df6.jpg",
+        "actors": [
+          {
+            "name": "邱礼涛",
+            "role": "导演",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/6735332cb677645542c2f136eb37e561.jpg"
+          },
+          {
+            "name": "刘德华",
+            "role": "潘乘风",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/ca47cd961fe0be0c91149f6bcca2f13d.jpg"
+          },
+          {
+            "name": "刘青云",
+            "role": "董卓文",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/82a5d97e318c447133cd6c8262cee846.jpg"
+          },
+          {
+            "name": "倪妮",
+            "role": "庞玲",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/e776871fe75f0367aa60957457a6f96c.jpg"
+          },
+          {
+            "name": "谢君豪",
+            "role": "演员",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/dd120eb1f6bda9f3b9c9e4c49785d0ce.jpg"
+          }
+        ],
+        "director": "邱礼涛",
+        "category": "动作|犯罪",
+        "synopsis": "香港某处发生爆炸案，前拆弹专家潘乘风（刘德华 饰）因昏迷于现场，被警方怀疑牵涉其中。苏醒后的潘乘风只能一边逃亡一边查明真相，然而，他的好友董卓文（刘青云 饰）和他的前女友庞玲（倪妮 饰）却给他讲述了两段截然不同的经历。有计划的爆炸案接二连三发生，真相却越来越扑朔迷离……",
+        "filmType": {
+          "name": "2D",
+          "value": 1
+        },
+        "nation": "中国大陆,中国香港",
+        "language": "",
+        "videoId": "",
+        "premiereAt": 1608768000,
+        "timeType": 3,
+        "runtime": 0,
+        "item": {
+          "name": "2D",
+          "type": 1
+        },
+        "isPresale": true,
+        "isSale": false
+      },
+      {
+        "filmId": 5268,
+        "name": "送你一朵小红花",
+        "poster": "https://pic.maizuo.com/usr/movie/c3a32bd973128a58d969836ea8e0120e.jpg",
+        "actors": [
+          {
+            "name": "朱媛媛",
+            "role": "陶慧",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/120f4a0b28f2aa7f59342617bae08651.jpg"
+          },
+          {
+            "name": "高亚麟",
+            "role": "韦江",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/b489fa6bf47a3c0553ee959ef907b181.jpg"
+          },
+          {
+            "name": "韩延",
+            "role": "导演",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/25363888a18bee3f9a31788fbda32a84.jpg"
+          },
+          {
+            "name": "易烊千玺",
+            "role": "韦一航",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/f9b4b9f6f7564b4068aec8d37036459e.jpg"
+          },
+          {
+            "name": "刘浩存",
+            "role": "马小远",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/1f55dfac4f4ce02f46074113a465c702.jpg"
+          }
+        ],
+        "director": "韩延",
+        "category": "剧情|家庭",
+        "synopsis": "该片围绕两个抗癌家庭的两组生活轨迹，讲述了一个温情的现实故事，思考和直面了每一个普通人都会面临的人生命题。",
+        "filmType": {
+          "name": "2D",
+          "value": 1
+        },
+        "nation": "中国大陆",
+        "language": "",
+        "videoId": "",
+        "premiereAt": 1609372800,
+        "timeType": 3,
+        "runtime": 0,
+        "item": {
+          "name": "2D",
+          "type": 1
+        },
+        "isPresale": true,
+        "isSale": false
+      },
+      {
+        "filmId": 5280,
+        "name": "晴雅集",
+        "poster": "https://pic.maizuo.com/usr/movie/186370070413ba10d64a9e36264ca267.jpg",
+        "actors": [
+          {
+            "name": "郭敬明",
+            "role": "导演",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/a6cecede29923a8e763de8b9f54f504e.jpg"
+          },
+          {
+            "name": "赵又廷",
+            "role": "晴明",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/3a1cdac7bba961ababe2dc84d61009b3.jpg"
+          },
+          {
+            "name": "邓伦",
+            "role": "博雅",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/703d08d7d24d03dea8866d107fdb085d.jpg"
+          },
+          {
+            "name": "王子文",
+            "role": "长平公主",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/b6c20dbef4a3ad79c12ba3b2c21bf258.jpg"
+          },
+          {
+            "name": "春夏",
+            "role": "泷夜",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/78a6f345f247583334c3ac7b9a9b3527.jpg"
+          }
+        ],
+        "director": "郭敬明",
+        "category": "奇幻|爱情",
+        "synopsis": "晴明承师父遗命，前往天都参加祭天大典，与博雅不打不相识，从对手成为搭档挚友，两人一同破解离奇案件，揭开一段尘封百年的秘密，拯救苍生。",
+        "filmType": {
+          "name": "2D",
+          "value": 1
+        },
+        "nation": "中国大陆",
+        "language": "",
+        "videoId": "",
+        "premiereAt": 1608854400,
+        "timeType": 3,
+        "runtime": 0,
+        "item": {
+          "name": "2D",
+          "type": 1
+        },
+        "isPresale": true,
+        "isSale": false
+      },
+      {
+        "filmId": 5279,
+        "name": "温暖的抱抱",
+        "poster": "https://pic.maizuo.com/usr/movie/e856bdc65507b99800f22e47801fa781.jpg",
+        "actors": [
+          {
+            "name": "常远",
+            "role": "导演",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/49c5ca758acc818e76033468d9e0d3d1.jpg"
+          },
+          {
+            "name": "常远",
+            "role": "鲍抱",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/49c5ca758acc818e76033468d9e0d3d1.jpg"
+          },
+          {
+            "name": "李沁",
+            "role": "宋温暖",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/d28abd66cbb8dca0f359b89939866e66.jpg"
+          },
+          {
+            "name": "沈腾",
+            "role": "贾医生",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/98c43da4b43bcf161d5b9c905253c016.jpg"
+          },
+          {
+            "name": "乔杉",
+            "role": "王为仁",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/4b6da2deabe5dc7883321bb17372c25b.jpg"
+          }
+        ],
+        "director": "常远",
+        "category": "喜剧",
+        "synopsis": "对整洁和计划有着超乎常人执念的鲍抱(常远 饰)，本以为自己是一个友情爱情的绝缘体，但在遇到个性率真宋温暖(李沁 饰) 、妙手“神经”贾医生(沈腾 饰)和假仁假义王为仁（乔杉 饰）之后，上演了一段阴差阳错的喜剧故事……",
+        "filmType": {
+          "name": "2D",
+          "value": 1
+        },
+        "nation": "中国大陆",
+        "language": "",
+        "videoId": "",
+        "premiereAt": 1609372800,
+        "timeType": 3,
+        "runtime": 0,
+        "item": {
+          "name": "2D",
+          "type": 1
+        },
+        "isPresale": true,
+        "isSale": false
+      },
+      {
+        "filmId": 5252,
+        "name": "疯狂原始人2",
+        "poster": "https://pic.maizuo.com/usr/movie/0033bbc9ee55f9c6a146054c3063b12c.jpg",
+        "actors": [
+          {
+            "name": "克里斯·桑德斯",
+            "role": "导演",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/ee87069d5434006a900d7ace70a2a2e0.jpg"
+          },
+          {
+            "name": "柯克·德·米科",
+            "role": "导演",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/de832d61f5593aa5369ccf397ed4f202.jpg"
+          },
+          {
+            "name": "凯特·戴琳斯",
+            "role": "演员",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/065f5d4fd21354d6b7af6c4b38883d08.jpg"
+          },
+          {
+            "name": "克萝丽丝·利奇曼",
+            "role": "格兰奶奶",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/386578db0259137f60aa242129299e2a.jpg"
+          },
+          {
+            "name": "艾玛·斯通",
+            "role": "小伊 Eep",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/e7f72697ab8e0416e9caabd802be1ab3.jpg"
+          }
+        ],
+        "director": "克里斯·桑德斯|柯克·德·米科|乔尔·克劳福德",
+        "category": "喜剧|动画|冒险",
+        "synopsis": "《疯狂原始人》票房大捷后即确认将制作续集。日前，导演克里斯·桑德斯、科克·德米科在影片的家庭录像发布会上确认，原班配音人马，包括尼古拉斯·凯奇、艾玛·斯通、莱恩·雷诺斯等将在续集中回归。",
+        "filmType": {
+          "name": "3D",
+          "value": 2
+        },
+        "nation": "美国",
+        "language": "",
+        "videoId": "",
+        "premiereAt": 1606435200,
+        "timeType": 3,
+        "runtime": 90,
+        "grade": "9.1",
+        "item": {
+          "name": "3D",
+          "type": 2
+        },
+        "isPresale": true,
+        "isSale": false
+      },
+      {
+        "filmId": 5288,
+        "name": "明天你是否依然爱我",
+        "poster": "https://pic.maizuo.com/usr/movie/5a707554cbbd4232b0a6b1695a09b06a.jpg",
+        "actors": [
+          {
+            "name": "周楠",
+            "role": "导演",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/878df24dffd2403223ed5b6ae29b6c74.jpg"
+          },
+          {
+            "name": "杨颖",
+            "role": "赵希曼",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/77306d486d0ba95f30d34f4b95e08079.jpg"
+          },
+          {
+            "name": "李鸿其",
+            "role": "费力",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/997aabbaf743fb558651f84d4ee98196.jpg"
+          },
+          {
+            "name": "黄柏钧",
+            "role": "老板",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/1e16e8326305284c966daa36978f19c8.jpg"
+          },
+          {
+            "name": "王佳佳",
+            "role": "袁晓芸（窦太）",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/246b13477028aafa3c7fc7432b9c4a0e.jpg"
+          }
+        ],
+        "director": "周楠",
+        "category": "剧情|爱情",
+        "synopsis": "是不是每个人的人生里都有一个爱不到的人?当毫无存在感的IT男费力遇见闪闪发光的女孩赵希曼，他找到了自己必须去冒险的理由。世间每一种限定浪漫，都是暗恋者的良苦用心。当明天到来，你还会记得最纯粹的感动和爱吗?如果有幸等到你，这个冬天一起去看极光吧⋯⋯",
+        "filmType": {
+          "name": "2D",
+          "value": 1
+        },
+        "nation": "中国大陆",
+        "language": "",
+        "videoId": "",
+        "premiereAt": 1608768000,
+        "timeType": 3,
+        "runtime": 0,
+        "item": {
+          "name": "2D",
+          "type": 1
+        },
+        "isPresale": true,
+        "isSale": false
+      },
+      {
+        "filmId": 5245,
+        "name": "如果声音不记得",
+        "poster": "https://pic.maizuo.com/usr/movie/fb7a16a8dd601247d680c9976b5be542.jpg",
+        "actors": [
+          {
+            "name": "落落",
+            "role": "导演",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/e35a4a5e1ca5771842856b87b2ee3d7f.jpg"
+          },
+          {
+            "name": "章若楠",
+            "role": "吉择",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/8db908c771566ad6470a72d275ad0ec0.jpg"
+          },
+          {
+            "name": "孙晨竣",
+            "role": "辛唐",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/7179728df040b410efe707283ed515fb.jpg"
+          },
+          {
+            "name": "王彦霖",
+            "role": "演员",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/b4396a781af7234f899dd872d08b9d67.jpg"
+          },
+          {
+            "name": "严屹宽",
+            "role": "演员",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/ca2ee115a13f8ff070021799098bf223.jpg"
+          }
+        ],
+        "director": "落落",
+        "category": "爱情|青春|奇幻",
+        "synopsis": "如果你喜欢的女孩，得了抑郁症，你该怎么办？辛唐（孙晨竣饰）拥有通过声音给他人制造快乐的能力，但对同一人使用三次后，性命就会和此人绑定，只有对方开心，辛唐才能活命。偶然，辛唐救下准备自杀的同校网络红人吉择（章若楠饰），两人借此绑定。吉择表面开朗，但实际患了抑郁症。辛唐最初为了活下去，费尽心思让吉择开心，而后续也真的投入深情。遗憾辛唐的秘密总会败露，而吉择暗黑的过往也在网络上被人揭开....愿爱情的温暖，能治愈抑郁的青春。",
+        "filmType": {
+          "name": "2D",
+          "value": 1
+        },
+        "nation": "中国大陆",
+        "language": "",
+        "videoId": "",
+        "premiereAt": 1607040000,
+        "timeType": 3,
+        "runtime": 102,
+        "grade": "8",
+        "item": {
+          "name": "2D",
+          "type": 1
+        },
+        "isPresale": true,
+        "isSale": false
+      }
+    ],
+    "total": 41
+  },
+  "msg": "ok"
+}
